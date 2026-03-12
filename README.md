@@ -1,2 +1,5 @@
 # HR-Executive-Dashboard-Employee-Dataset-Analysis
-HR data analysis of 1,000 employees built in Microsoft Excel. Used PivotTables and calculated measures to analyze salary efficiency by job role, regional sales distribution, headcount, and top employee performance. Findings are presented in a single-page executive dashboard covering 10 job titles and 7 global regions.
+
+## Project Overview
+
+This project presents an end-to-end HR data analysis built entirely in Microsoft Excel. Starting from a raw employee dataset, I cleaned the data, built structured PivotTables, calculated custom business measures, and assembled a single-page HR Executive Dashboard designed for C-suite and HR leadership consumption.
